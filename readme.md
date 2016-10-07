@@ -7,3 +7,5 @@ For best results please customize Shee.sh with your desired applications.
 ```sh shee.sh```
 2. Shee.sh will ask you if you're _working_ or _playing_. Answer accordingly.
 3. Watch your declared programs open. Sheesh, that was fast.
+
+![Alt text](/sheesh.png?raw=true "sh shee.sh")
