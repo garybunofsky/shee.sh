@@ -1,7 +1,5 @@
-#Shee.sh
+# Shee.sh
 For best results please customize Shee.sh with your desired applications.
-  
-  
 
 1. To start Shee.sh just do:
 ```sh shee.sh```
